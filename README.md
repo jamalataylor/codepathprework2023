@@ -18,5 +18,15 @@ App Brainstorming
 
 3.Canva
 - I like being able to generate social media templates
-- I like the feature to create logos 
+- I like the feature to create logos
+
+
+App Ideas
+
+I would like to create an  inventory and appointment management app for service professionals
+- tracks inventory
+- tracks service requests by customer/ address
+- tracks warranty information on repair parts
+- tracks repairs done by location
+- tracks types of repairs and frequecy
 
